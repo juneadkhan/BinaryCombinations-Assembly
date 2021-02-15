@@ -1,4 +1,4 @@
-# BinaryCombinations in Assembly Language 0️⃣1️⃣1️⃣0️⃣
+# Binary Combinations in Assembly Language 0️⃣1️⃣1️⃣0️⃣
 
 Given a positive integer number N, this programme generates all the possible binary combinations of N bits. This implementation is done via recursion. The code uses MIPS Stack Allocation/Deallocation conventions.
 
